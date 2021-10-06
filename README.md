@@ -1,5 +1,4 @@
-# Matlab
-Lenguaje que ofrece un entorno de desarrollo integrado
+# Matlab]: Lenguaje que ofrece un entorno de desarrollo integrado
 
 MATLAB es un sistema de cómputo numérico que ofrece un entorno de desarrollo integrado con un lenguaje de programación propio. Está disponible para las plataformas Unix, Windows, macOS y GNU/Linux. 
 
